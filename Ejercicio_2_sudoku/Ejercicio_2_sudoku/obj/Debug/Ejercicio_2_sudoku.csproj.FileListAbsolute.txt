@@ -1,0 +1,10 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\bin\Debug\Ejercicio_2_sudoku.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\bin\Debug\Ejercicio_2_sudoku.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\bin\Debug\Ejercicio_2_sudoku.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\obj\Debug\Ejercicio_2_sudoku.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\obj\Debug\Ejercicio_2_sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\obj\Debug\Ejercicio_2_sudoku.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\obj\Debug\Ejercicio_2_sudoku.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 2\Ejercicio_2_sudoku\Ejercicio_2_sudoku\obj\Debug\Ejercicio_2_sudoku.csproj.CopyComplete
