@@ -12,7 +12,7 @@ namespace SudokuJugableConsola
             Array.Copy(tablero, tableroSolucion, tablero.Length);
 
             ImprimirSudoku(tablero);
-
+            //VAmos por los dulce o que
             while (!SudokuResuelto(tablero))
             {
                 Console.Write("Ingresa la fila (1-9): ");
