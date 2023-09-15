@@ -20,7 +20,7 @@ namespace SudokuJugableConsola
 
                 Console.Write("Ingresa la columna (1-9): ");
                 int columna = int.Parse(Console.ReadLine()) - 1;
-                //Que rollo paps vamos por unas Miches o que onda
+                
                 Console.Write("Ingresa el número (1-9): ");
                 int numero = int.Parse(Console.ReadLine());
 
