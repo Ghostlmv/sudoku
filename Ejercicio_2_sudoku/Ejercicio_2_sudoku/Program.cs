@@ -4,6 +4,7 @@ namespace SudokuJugableConsola
 {
     class Program
     {
+        //Hola mundo
         static void Main(string[] args)
         {
             int[,] tablero = GenerarSudokuJugable();
